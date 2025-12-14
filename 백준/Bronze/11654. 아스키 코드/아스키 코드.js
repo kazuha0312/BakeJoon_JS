@@ -1,4 +1,6 @@
 const fs = require('fs');
-const input = fs.readFileSync(0).toString().trim();
+const input = require('fs').readFileSync(0).toString().trim().split(/\s+/);
 
-console.log(input.charCodeAt(0));
+let x = input[0];
+
+console.log(x.charCodeAt(0));
