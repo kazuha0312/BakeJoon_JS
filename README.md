@@ -1,2 +1,5 @@
 # BakeJoon_JS
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+This repository contains my personal solutions to algorithm problems, created for learning and practice.
+
+個人的な学習・練習を目的として、アルゴリズム問題の解答コードをまとめたリポジトリです。
